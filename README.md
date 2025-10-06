@@ -21,6 +21,7 @@
    Step 7 : stop.
 
 **Program :**
+```
 #include "stdio.h" 
 #include "conio.h" 
 #include "math.h" 
@@ -72,6 +73,7 @@ main()
    getch(); 
    return(0); 
 }
+```
 
 
 **Output :**
